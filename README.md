@@ -8,6 +8,8 @@ This project replicates a full analytics dashboard for a simulated luxury packag
 
 ## Dashboard Structure
 
+![Dashboard Screenshot](1st.jpg)
+
 The workbook is organized into 4 layers:
 
 | Sheet | Purpose |
